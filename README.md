@@ -1,9 +1,10 @@
 Originally from https://github.com/zhaoolee/WordPressXMLRPCTools
 
 ---start---
+## 目录(2022年06月23日更新)
+[templates NS](https://en.aoduki.com/p/2021-03-17-ns-xbox/)
 
-## 目录(2022年06月21日更新)
-https://fangyuanxiaozhan.com/p/2020-01-17-zhaoolee/)
+[Github的Pages和Actions有什么用?](https://en.aoduki.com/p/2021-03-15-github/)
 
 ---end---
 
