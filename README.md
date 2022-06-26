@@ -1,7 +1,9 @@
 Originally from https://github.com/zhaoolee/WordPressXMLRPCTools
 
 ---start---
-## 目录(2022年06月23日更新)
+## 目录(2022年06月26日更新)
+[VAE & BNN](https://en.aoduki.com/p/2021:06:26-bs-progress/)
+
 [templates NS](https://en.aoduki.com/p/2021-03-17-ns-xbox/)
 
 [Github的Pages和Actions有什么用?](https://en.aoduki.com/p/2021-03-15-github/)
