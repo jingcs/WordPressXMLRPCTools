@@ -1,8 +1,8 @@
 Originally from https://github.com/zhaoolee/WordPressXMLRPCTools
 
 ---start---
-## 目录(2022年07月14日更新)
-[VAE & BNN 这次更新内容](https://en.aoduki.com/p/2021:06:26-bs-progress/)
+## Content (2022/07/14日updated)
+[Santorini Oia and Fira](https://en.aoduki.com/p/2021:06:26-bs-progress/)
 
 [templates NS](https://en.aoduki.com/p/2021-03-17-ns-xbox/)
 
