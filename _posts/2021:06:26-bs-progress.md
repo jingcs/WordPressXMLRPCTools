@@ -1,5 +1,5 @@
 ---
-title: VAE & BNN
+title: VAE & BNN 这次更新内容
 tags: 
 - VAE
 - BNN
