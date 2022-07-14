@@ -5,7 +5,7 @@ tags:
 - Fira
 - Santorini
 categories:
-- [Trips, Greece]
+- Trips
 description: Trips in Greece.
 ---
 
