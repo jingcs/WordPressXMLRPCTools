@@ -1,13 +1,14 @@
 ---
-title: VAE & BNN 这次更新内容
+title: Santorini Oia and Fira
 tags: 
-- VAE
-- BNN
+- Oia
+- Fira
+- Santorini
 categories:
-- Tech
-description: Summer project note 尝试更新
+- [Trips, Greece]
+description: Trips in Greece.
 ---
 
 
 
-*VAE-BNN: Bayesian Inference in ICU Data* 
+![Athe](https://cdn.jsdelivr.net/gh/jingcs/picDB/trips/Greece/athens/gr_athe1.jpeg)
