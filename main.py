@@ -211,7 +211,7 @@ def update_index_info_in_readme():
     for md in md_list:
         (content, metadata) = read_md(md)
         title = metadata.get("title", "")
-        insert_info = insert_info + "[" + title +"](" + "https://"+domain_name + "/p/" + os.path.basename(md).split(".")[0] +"/" + ")\n\n"
+        insert_info = insert_info + "[" + title +"](" + "https://"+domain_name + "/index.php/" + os.path.basename(md).split(".")[0] +"/" + ")\n\n"
     # 替换 ---start--- 到 ---end--- 之间的内容
 
     insert_info = "---start---\n## Content (" + time.strftime('%Y/%m/%d日') + "updated)" +"\n" + insert_info + "---end---"
@@ -267,7 +267,7 @@ def main():
             terms_names_category = metadata.get("categories", domain_name)
             post_status = "publish"
             link = sha1_key.split(".")[0]
-            content = markdown.markdown(content + href_info("https://"+domain_name+"/p/"+link+"/"), extensions=['tables', 'fenced_code'])
+            content = markdown.markdown(content + href_info("https://"+domain_name+"/index.php/"+link+"/"), extensions=['tables', 'fenced_code'])
             # 如果文章id不存在,则直接新建
             if link not in link_id_dic.keys():
                 print(f'Creating new post {md}')
