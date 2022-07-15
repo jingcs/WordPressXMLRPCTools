@@ -1,7 +1,9 @@
 Originally from https://github.com/zhaoolee/WordPressXMLRPCTools
 
 ---start---
-## Content (2022/07/14日updated)
+## Content (2022/07/15日updated)
+[Santorini Oia and Fira](https://en.aoduki.com/index.php/bs-progress/)
+
 [Santorini Oia and Fira](https://en.aoduki.com/index.php/2021:06:26-bs-progress/)
 
 [templates NS](https://en.aoduki.com/index.php/2021-03-17-ns-xbox/)
